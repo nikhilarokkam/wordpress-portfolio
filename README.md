@@ -36,6 +36,8 @@ During a 1-month internship with Shobhit Sir, the founder of BuzzBeamDigital in 
 
 ![screencapture-funnelsaga-2024-06-16-12_44_14](https://github.com/nikhilarokkam/wordpress-portfolio/assets/115566678/1b9d92ce-25c7-492c-b87f-9da6525bcb42)
 
+![screencapture-assignmentprohelp-2024-06-16-12_44_29](https://github.com/nikhilarokkam/wordpress-portfolio/assets/115566678/4cc8ccc9-5096-4aea-8a21-60ee6ad91c57)
+
 ---
 
 ## Contact
