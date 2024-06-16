@@ -31,9 +31,10 @@ During a 1-month internship with Shobhit Sir, the founder of BuzzBeamDigital in 
 - **AssignmentProHelp:** [https://assignmentprohelp.com/](https://assignmentprohelp.com/)
 
 **Output:**
-![UniSportsIndia Homepage](link_to_image)
-![FunnelSaga Homepage](link_to_image)
-![AssignmentProHelp Homepage](link_to_image)
+
+![screencapture-unisportinfra-2024-06-16-12_44_52](https://github.com/nikhilarokkam/wordpress-portfolio/assets/115566678/774a9d6a-6c16-48f3-9db3-2ca2c8073e16)
+
+![screencapture-funnelsaga-2024-06-16-12_44_14](https://github.com/nikhilarokkam/wordpress-portfolio/assets/115566678/1b9d92ce-25c7-492c-b87f-9da6525bcb42)
 
 ---
 
