@@ -20,7 +20,22 @@ RA CAP is a finance advisory firm located in Bhubaneswar. This was my first Word
 
 ---
 
+### Project 2: BuzzBeamDigital Internship
+**Client:** Shobhit Sir, BuzzBeamDigital
 
+**Description:**
+During a 1-month internship with Shobhit Sir, the founder of BuzzBeamDigital in Lucknow, I assisted on various websites including UniSportsIndia, FunnelSaga, and AssignmentProHelp. My role involved completing specific tasks and building certain webpages as assigned.
+
+- **UniSportsIndia:** [https://unisportinfra.com/](https://unisportinfra.com/)
+- **FunnelSaga:** [https://funnelsaga.com/](https://funnelsaga.com/)
+- **AssignmentProHelp:** [https://assignmentprohelp.com/](https://assignmentprohelp.com/)
+
+**Output:**
+![UniSportsIndia Homepage](link_to_image)
+![FunnelSaga Homepage](link_to_image)
+![AssignmentProHelp Homepage](link_to_image)
+
+---
 
 ## Contact
 
