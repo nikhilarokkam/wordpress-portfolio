@@ -21,7 +21,7 @@ RA CAP is a finance advisory firm located in Bhubaneswar. This was my first Word
 ---
 
 ### Project 2: BuzzBeamDigital Internship
-**Client:** Shobhit Sir, BuzzBeamDigital
+**Client:** Shobhit Chawla, BuzzBeamDigital
 
 **Description:**
 During a 1-month internship with Shobhit Sir, the founder of BuzzBeamDigital in Lucknow, I assisted on various websites including UniSportsIndia, FunnelSaga, and AssignmentProHelp. My role involved completing specific tasks and building certain webpages as assigned.
@@ -37,6 +37,21 @@ During a 1-month internship with Shobhit Sir, the founder of BuzzBeamDigital in 
 ![screencapture-funnelsaga-2024-06-16-12_44_14](https://github.com/nikhilarokkam/wordpress-portfolio/assets/115566678/1b9d92ce-25c7-492c-b87f-9da6525bcb42)
 
 ![screencapture-assignmentprohelp-2024-06-16-12_44_29](https://github.com/nikhilarokkam/wordpress-portfolio/assets/115566678/4cc8ccc9-5096-4aea-8a21-60ee6ad91c57)
+
+---
+
+### Project 3: StorageDNA
+**Client:** Ankit Tayal, TechEnhance
+
+**Description:**
+With TechEnhance, I worked on a WordPress website for a company called StorageDNA. My task was to design the service pages. I designed two pages: Smart Analysis Tools and Meta & Proxy Management. However, my tenure with TechEnhance was only one week due to my need to focus on my final year college project.
+
+- **Smart Analysis Tools:** [https://storagedna.com/DNAfabric3/smart-analysis-tools/](https://storagedna.com/DNAfabric3/smart-analysis-tools/)
+- **Meta & Proxy Management:** [https://storagedna.com/DNAfabric3/meta-proxy-management](https://storagedna.com/DNAfabric3/meta-proxy-management)
+
+**Output:**
+![Smart Analysis Tools](link_to_image)
+![Meta & Proxy Management](link_to_image)
 
 ---
 
