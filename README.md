@@ -73,6 +73,12 @@ I have successfully completed tasks assigned by Kunal Sir and have gained valuab
 
 **Output:**
 
+![screencapture-dbb-2024-06-25-20_54_53](https://github.com/nikhilarokkam/wordpress-portfolio/assets/115566678/9d9a2a1b-b732-4a78-8f5a-754273a653f9)
+
+![screencapture-vietnam-incorp-asia-2024-06-25-20_55_48](https://github.com/nikhilarokkam/wordpress-portfolio/assets/115566678/ccf87abc-12b2-4736-87c8-84be6fc0f439)
+
+![screencapture-digitalpatang-in-am-2024-06-25-20_57_14](https://github.com/nikhilarokkam/wordpress-portfolio/assets/115566678/f5184ae3-1673-48fc-8e50-26d52f971e61)
+
 ---
 
 ## Contact
