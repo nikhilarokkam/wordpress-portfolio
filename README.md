@@ -57,6 +57,24 @@ With TechEnhance, I worked on a WordPress website for a company called StorageDN
 
 ---
 
+### Project 4: Web Around Technologies
+**Client:** Kunal Gulati, Director
+
+**Description:**
+I am currently employed as a full-time remote Web Developer at Web Around Technologies, under the direction of Kunal Gulati. Since joining, I have worked on several websites, handling both frontend and backend tasks. The websites I've contributed to include:
+
+- **DBB:** [https://www.dbb.com](https://www.dbb.com)
+- **Vietnam Incorp Asia:** [http://vietnam.incorp.asia](http://vietnam.incorp.asia)
+- **Digital Patang:** [https://digitalpatang.in/am/](https://digitalpatang.in/am/)
+
+In addition to frontend and backend development, I have also been involved in implementing SEO best practices across these websites. This includes optimizing meta tags, improving site speed, implementing structured data markup, and enhancing overall site performance for better search engine visibility.
+
+I have successfully completed tasks assigned by Kunal Sir and have gained valuable knowledge and experience in WordPress development and SEO during this time.
+
+**Output:**
+
+---
+
 ## Contact
 
 Feel free to reach out if you have any questions or if you would like to collaborate on a project!
