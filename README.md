@@ -68,7 +68,6 @@ I am currently employed as a full-time remote Web Developer at Web Around Techno
 - **Digital Patang:** [https://digitalpatang.in/am/](https://digitalpatang.in/am/)
 - **Skipper N Friends:** [https://skippernfriends.com/](https://skippernfriends.com/)
 
-https://skippernfriends.com/
 In addition to frontend and backend development, I have also been involved in implementing SEO best practices across these websites. This includes optimizing meta tags, improving site speed, implementing structured data markup, and enhancing overall site performance for better search engine visibility.
 
 I have successfully completed tasks assigned by Kunal Sir and have gained valuable knowledge and experience in WordPress development and SEO during this time.
