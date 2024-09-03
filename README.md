@@ -12,7 +12,7 @@ Welcome to my portfolio! Here you can find a collection of my projects as a Word
 **Description:**
 RA CAP is a finance advisory firm located in Bhubaneswar. This was my first WordPress project, and I was completely new to WordPress at the time—a noob actually! Thanks to Battina Abhishek Bhaiyya who trusted me, I managed to complete the project and gained a little confidence from there.
 
-**Link:** [https://racap.in/](https://racap.in/)
+**Link:** [https://racap.in/](https://racap.in/) (Please note that this WordPress website is currently under construction due to some issues)
 
 **Output:**
 
