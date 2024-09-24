@@ -68,6 +68,7 @@ I am currently employed as a full-time remote Web Developer at Web Around Techno
 - **Ambience Mall:** [https://digitalpatang.in/am/](https://digitalpatang.in/am/)
 - **Skipper N Friends:** [https://skippernfriends.com/](https://skippernfriends.com/)
 - **LockRoom:** [https://lockroom.com/](https://lockroom.com/)
+- **Akash Super Tramp:** [https://akashsupertramp.com/](https://akashsupertramp.com/)
 
 In addition to frontend and backend development, I have also been involved in implementing SEO best practices across these websites. This includes optimizing meta tags, improving site speed, implementing structured data markup, and enhancing overall site performance for better search engine visibility.
 
