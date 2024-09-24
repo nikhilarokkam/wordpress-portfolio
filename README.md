@@ -82,6 +82,8 @@ I have successfully completed tasks assigned by Kunal Sir and have gained valuab
 ![screencapture-digitalpatang-in-am-2024-06-25-20_57_14](https://github.com/nikhilarokkam/wordpress-portfolio/assets/115566678/f5184ae3-1673-48fc-8e50-26d52f971e61)
 
 ![screencapture-skippernfriends-2024-08-28-20_03_12](https://github.com/user-attachments/assets/fa5b3010-cbd0-40fd-801c-18d7afc722f0)
+
+![screencapture-lockroom-2024-09-24-20_00_34](https://github.com/user-attachments/assets/70be0053-908d-42cb-a3b4-59efee307f59)
 ---
 
 ## Contact
