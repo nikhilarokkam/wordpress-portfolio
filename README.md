@@ -69,6 +69,7 @@ I am currently employed as a full-time remote Web Developer at Web Around Techno
 - **Skipper N Friends:** [https://skippernfriends.com/](https://skippernfriends.com/)
 - **LockRoom:** [https://lockroom.com/](https://lockroom.com/)
 - **Akash Super Tramp:** [https://akashsupertramp.com/](https://akashsupertramp.com/)
+- **QuickPack:** [https://quickpack.co.in/](https://quickpack.co.in/)
 
 In addition to frontend and backend development, I have also been involved in implementing SEO best practices across these websites. This includes optimizing meta tags, improving site speed, implementing structured data markup, and enhancing overall site performance for better search engine visibility.
 
@@ -85,6 +86,9 @@ I have successfully completed tasks assigned by Kunal Sir and have gained valuab
 ![screencapture-skippernfriends-2024-08-28-20_03_12](https://github.com/user-attachments/assets/fa5b3010-cbd0-40fd-801c-18d7afc722f0)
 
 ![screencapture-lockroom-2024-09-24-20_00_34](https://github.com/user-attachments/assets/70be0053-908d-42cb-a3b4-59efee307f59)
+
+![screencapture-akashsupertramp-2024-09-24-20_09_04](https://github.com/user-attachments/assets/8b2544e4-04c0-40e0-b39c-53692b71e403)
+
 ---
 
 ## Contact
