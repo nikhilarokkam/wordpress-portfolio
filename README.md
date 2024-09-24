@@ -89,6 +89,8 @@ I have successfully completed tasks assigned by Kunal Sir and have gained valuab
 
 ![screencapture-akashsupertramp-2024-09-24-20_09_04](https://github.com/user-attachments/assets/8b2544e4-04c0-40e0-b39c-53692b71e403)
 
+![screencapture-quickpack-co-in-2024-09-24-20_12_03](https://github.com/user-attachments/assets/c0bd9be2-fdbc-44d2-bddc-a22232ae3f7c)
+
 ---
 
 ## Contact
