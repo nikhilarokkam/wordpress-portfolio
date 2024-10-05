@@ -70,6 +70,7 @@ I am currently employed as a full-time remote Web Developer at Web Around Techno
 - **LockRoom:** [https://lockroom.com/](https://lockroom.com/)
 - **Akash Super Tramp:** [https://akashsupertramp.com/](https://akashsupertramp.com/)
 - **QuickPack:** [https://quickpack.co.in/](https://quickpack.co.in/)
+- **Chitranjan Astrology**: [https://chitranjanastro.com/](https://chitranjanastro.com/)
 
 In addition to frontend and backend development, I have also been involved in implementing SEO best practices across these websites. This includes optimizing meta tags, improving site speed, implementing structured data markup, and enhancing overall site performance for better search engine visibility.
 
@@ -90,6 +91,7 @@ I have successfully completed tasks assigned by Kunal Sir and have gained valuab
 ![screencapture-akashsupertramp-2024-09-24-20_09_04](https://github.com/user-attachments/assets/8b2544e4-04c0-40e0-b39c-53692b71e403)
 
 ![screencapture-quickpack-co-in-2024-09-24-20_12_03](https://github.com/user-attachments/assets/c0bd9be2-fdbc-44d2-bddc-a22232ae3f7c)
+
 
 ---
 
