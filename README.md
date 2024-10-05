@@ -92,6 +92,7 @@ I have successfully completed tasks assigned by Kunal Sir and have gained valuab
 
 ![screencapture-quickpack-co-in-2024-09-24-20_12_03](https://github.com/user-attachments/assets/c0bd9be2-fdbc-44d2-bddc-a22232ae3f7c)
 
+![screencapture-chitranjanastro-2024-10-05-09_26_52](https://github.com/user-attachments/assets/4ccd954f-dee1-4c6f-be0d-9151bb625234)
 
 ---
 
