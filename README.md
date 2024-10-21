@@ -6,21 +6,7 @@ Welcome to my portfolio! Here you can find a collection of my projects as a Word
 
 ## Projects
 
-### Project 1: RA CAP
-**Client:** RA CAP
-
-**Description:**
-RA CAP is a finance advisory firm located in Bhubaneswar. This was my first WordPress project, and I was completely new to WordPress at the time—a noob actually! Thanks to Battina Abhishek Bhaiyya who trusted me, I managed to complete the project and gained a little confidence from there.
-
-**Link:** [https://racap.in/](https://racap.in/) (Please note that this WordPress website is currently under construction due to some issues)
-
-**Output:**
-
-![Screenshot 2024-06-09 200513](https://github.com/nikhilarokkam/wordpress-portfolio/assets/115566678/5e0e3256-229c-4289-a38b-c54ca4ed1405)
-
----
-
-### Project 2: BuzzBeamDigital Internship
+### Project 1: BuzzBeamDigital Internship
 **Client:** Shobhit Chawla, BuzzBeamDigital
 
 **Description:**
@@ -40,7 +26,7 @@ During a 1-month internship with Shobhit Sir, the founder of BuzzBeamDigital in 
 
 ---
 
-### Project 3: StorageDNA
+### Project 2: StorageDNA
 **Client:** Ankit Tayal, TechEnhance
 
 **Description:**
@@ -57,7 +43,7 @@ With TechEnhance, I worked on a WordPress website for a company called StorageDN
 
 ---
 
-### Project 4: Web Around Technologies
+### Project 3: Web Around Technologies
 **Client:** Kunal Gulati, Director
 
 **Description:**
