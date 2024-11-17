@@ -15,6 +15,8 @@ During a 1-month internship with Shobhit Sir, the founder of BuzzBeamDigital in 
 - **UniSportsIndia:** [https://unisportinfra.com/](https://unisportinfra.com/)
 - **FunnelSaga:** [https://funnelsaga.com/](https://funnelsaga.com/)
 - **AssignmentProHelp:** [https://assignmentprohelp.com/](https://assignmentprohelp.com/)
+- **HalfaBawa:** [https://halfabawa.in/](https://halfabawa.in/)
+- **Fleksa (Blog Page):** [https://fleksa.com/blog-page/](https://fleksa.com/blog-page/)
 
 **Output:**
 
