@@ -53,7 +53,6 @@ I am currently employed as a full-time remote Web Developer at Web Around Techno
 - **Vietnam Incorp Asia:** [http://vietnam.incorp.asia](http://vietnam.incorp.asia)
 - **Ambience Mall:** [https://digitalpatang.in/am/](https://digitalpatang.in/am/)
 - **Skipper N Friends:** [https://skippernfriends.com/](https://skippernfriends.com/)
-- **LockRoom:** [https://lockroom.com/](https://lockroom.com/)
 - **Akash Super Tramp:** [https://akashsupertramp.com/](https://akashsupertramp.com/)
 - **QuickPack:** [https://quickpack.co.in/](https://quickpack.co.in/)
 - **Chitranjan Astrology**: [https://chitranjanastro.com/](https://chitranjanastro.com/)
@@ -71,8 +70,6 @@ I have successfully completed tasks assigned by Kunal Sir and have gained valuab
 ![screencapture-digitalpatang-in-am-2024-06-25-20_57_14](https://github.com/nikhilarokkam/wordpress-portfolio/assets/115566678/f5184ae3-1673-48fc-8e50-26d52f971e61)
 
 ![screencapture-skippernfriends-2024-08-28-20_03_12](https://github.com/user-attachments/assets/fa5b3010-cbd0-40fd-801c-18d7afc722f0)
-
-![screencapture-lockroom-2024-09-24-20_00_34](https://github.com/user-attachments/assets/70be0053-908d-42cb-a3b4-59efee307f59)
 
 ![screencapture-akashsupertramp-2024-09-24-20_09_04](https://github.com/user-attachments/assets/8b2544e4-04c0-40e0-b39c-53692b71e403)
 
