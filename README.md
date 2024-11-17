@@ -26,6 +26,10 @@ During a 1-month internship with Shobhit Sir, the founder of BuzzBeamDigital in 
 
 ![screencapture-assignmentprohelp-2024-06-16-12_44_29](https://github.com/nikhilarokkam/wordpress-portfolio/assets/115566678/4cc8ccc9-5096-4aea-8a21-60ee6ad91c57)
 
+![Screenshot 2024-11-17 181015](https://github.com/user-attachments/assets/99474761-f529-4957-a7eb-72b8db5d63c4)
+
+![screencapture-fleksa-blog-page-2024-11-17-18_10_22](https://github.com/user-attachments/assets/a81c9db7-181f-4517-9409-c6ba42a4f2ec)
+
 ---
 
 ### Project 2: StorageDNA
