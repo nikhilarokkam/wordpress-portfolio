@@ -62,6 +62,7 @@ I am currently employed as a full-time remote Web Developer at Web Around Techno
 - **Akash Super Tramp:** [https://akashsupertramp.com/](https://akashsupertramp.com/)
 - **QuickPack:** [https://quickpack.co.in/](https://quickpack.co.in/)
 - **Chitranjan Astrology**: [https://chitranjanastro.com/](https://chitranjanastro.com/)
+- **Pawlance**: [https://pawlance.com/](https://pawlance.com/)
 
 In addition to frontend and backend development, I have also been involved in implementing SEO best practices across these websites. This includes optimizing meta tags, improving site speed, implementing structured data markup, and enhancing overall site performance for better search engine visibility.
 
