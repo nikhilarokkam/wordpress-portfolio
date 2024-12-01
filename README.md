@@ -84,6 +84,8 @@ I have successfully completed tasks assigned by Kunal Sir and have gained valuab
 
 ![screencapture-chitranjanastro-2024-10-05-09_26_52](https://github.com/user-attachments/assets/4ccd954f-dee1-4c6f-be0d-9151bb625234)
 
+![screencapture-pawlance-2024-12-01-18_47_10](https://github.com/user-attachments/assets/c27dd5f0-add8-4698-85b0-dfff61b973fe)
+
 ---
 
 ## Contact
