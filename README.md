@@ -89,7 +89,7 @@ I have successfully completed tasks assigned by Kunal Sir and have gained valuab
 ---
 
 ### Project 4: Franchise AVS
-**Client:** Ankit Tayal, TechEnhance
+**Client:** Varun Singh, Founder and CEO
 
 **Description:**
 With TechEnhance, I worked on a WordPress website for a company called StorageDNA. My task was to design the service pages. I designed two pages: Smart Analysis Tools and Meta & Proxy Management. However, my tenure with TechEnhance was only one week due to my need to focus on my final year college project.
