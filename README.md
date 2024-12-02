@@ -94,8 +94,7 @@ I have successfully completed tasks assigned by Kunal Sir and have gained valuab
 **Description:**
 With TechEnhance, I worked on a WordPress website for a company called StorageDNA. My task was to design the service pages. I designed two pages: Smart Analysis Tools and Meta & Proxy Management. However, my tenure with TechEnhance was only one week due to my need to focus on my final year college project.
 
-- **Smart Analysis Tools:** [https://storagedna.com/DNAfabric3/smart-analysis-tools/](https://storagedna.com/DNAfabric3/smart-analysis-tools/)
-- **Meta & Proxy Management:** [https://storagedna.com/DNAfabric3/meta-proxy-management](https://storagedna.com/DNAfabric3/meta-proxy-management)
+- **Franchise AVS:** [https://franchiseavs.com/](https://franchiseavs.com/)
 
 **Output:**
 
