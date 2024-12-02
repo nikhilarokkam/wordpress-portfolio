@@ -102,44 +102,6 @@ Redesigned and implemented dynamic templates, optimized website SEO, guided the 
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Contact
 
 Feel free to reach out if you have any questions or if you would like to collaborate on a project!
