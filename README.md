@@ -102,6 +102,8 @@ Redesigned and implemented dynamic templates, optimized website SEO, guided the 
 
 ![screencapture-storagedna-DNAfabric3-meta-proxy-management-2024-06-16-13_01_11](https://github.com/nikhilarokkam/wordpress-portfolio/assets/115566678/9a2627ed-1ec9-49a3-b468-0f09d617b52a)
 
+![screencapture-franchiseavs-2024-12-02-07_58_22](https://github.com/user-attachments/assets/e045c2aa-3e4a-4275-88ae-f118ad8bb319)
+
 ---
 
 ## Contact
