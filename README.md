@@ -25,8 +25,6 @@ Welcome to my portfolio! Here you can find a collection of my projects as a Word
 
 
 
-
-
 ---
 
 ## Projects
