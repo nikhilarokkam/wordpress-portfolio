@@ -88,6 +88,23 @@ I have successfully completed tasks assigned by Kunal Sir and have gained valuab
 
 ---
 
+### Project 4: Franchise AVS
+**Client:** Ankit Tayal, TechEnhance
+
+**Description:**
+With TechEnhance, I worked on a WordPress website for a company called StorageDNA. My task was to design the service pages. I designed two pages: Smart Analysis Tools and Meta & Proxy Management. However, my tenure with TechEnhance was only one week due to my need to focus on my final year college project.
+
+- **Smart Analysis Tools:** [https://storagedna.com/DNAfabric3/smart-analysis-tools/](https://storagedna.com/DNAfabric3/smart-analysis-tools/)
+- **Meta & Proxy Management:** [https://storagedna.com/DNAfabric3/meta-proxy-management](https://storagedna.com/DNAfabric3/meta-proxy-management)
+
+**Output:**
+
+![screencapture-storagedna-DNAfabric3-smart-analysis-tools-2024-06-16-13_00_55](https://github.com/nikhilarokkam/wordpress-portfolio/assets/115566678/140af8ad-e74c-434a-b41c-b82fc68d46cd)
+
+![screencapture-storagedna-DNAfabric3-meta-proxy-management-2024-06-16-13_01_11](https://github.com/nikhilarokkam/wordpress-portfolio/assets/115566678/9a2627ed-1ec9-49a3-b468-0f09d617b52a)
+
+---
+
 ## Contact
 
 Feel free to reach out if you have any questions or if you would like to collaborate on a project!
