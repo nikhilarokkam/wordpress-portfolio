@@ -92,7 +92,7 @@ I have successfully completed tasks assigned by Kunal Sir and have gained valuab
 **Client:** Varun Singh, Founder and CEO
 
 **Description:**
-With TechEnhance, I worked on a WordPress website for a company called StorageDNA. My task was to design the service pages. I designed two pages: Smart Analysis Tools and Meta & Proxy Management. However, my tenure with TechEnhance was only one week due to my need to focus on my final year college project.
+Redesigned and implemented dynamic templates, optimized website SEO, guided the client for future content updates, and handled UI enhancements.
 
 - **Franchise AVS:** [https://franchiseavs.com/](https://franchiseavs.com/)
 
