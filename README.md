@@ -112,7 +112,7 @@ At Home Portal, I handled a wide range of real-world tasks that involved both te
 
 I also optimized image grids, created archive pages using both Elementor and custom code, and developed dynamic filters and responsive layouts. One of the biggest challenges I solved was extracting structured property data from HTML tables and integrating it into a searchable, map-based frontend without relying on external plugins or lat/lng fields. I worked closely with SEO and content teams to auto-generate missing ALT text for thousands of images using AI and automated workflows in Make.com.
 
-Beyond coding, I focused on scalability, UI/UX improvements, and SEO-friendly structuring—delivering real impact to the business website through practical, hands-on solutions.
+Beyond coding, I focused on scalability, UI/UX improvements, and SEO-friendly structuring - delivering real impact to the business website through practical, hands-on solutions.
 
 - **Homeportal:** [https://homeportal.ca/](https://homeportal.ca/)
 
