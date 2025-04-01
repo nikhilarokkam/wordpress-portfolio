@@ -105,14 +105,16 @@ Redesigned and implemented dynamic templates, optimized website SEO, guided the 
 ### Project 5: Homeportal (Canada)
 **Client:** Megan Rekhi, Founder
 
+**Duration:** Jan 2025 – Apr 2025
+
 **Description:**
-At Home Portal, I handled a wide range of real-world tasks that involved both technical implementation and creative problem-solving. My role included building custom post types for real estate listings, implementing a fully functional map search feature using ACF, WP Grid Builder, and Leaflet.js, and customizing Elementor layouts for performance and design consistency.
+At Home Portal, I handled a wide range of real-world tasks that involved both technical implementation and creative problem-solving. My role included building custom post types for real estate listings, implementing a fully functional map search feature using ACF and Leaflet.js, and customizing Elementor layouts for performance and design consistency.
 
 I also optimized image grids, created archive pages using both Elementor and custom code, and developed dynamic filters and responsive layouts. One of the biggest challenges I solved was extracting structured property data from HTML tables and integrating it into a searchable, map-based frontend without relying on external plugins or lat/lng fields. I worked closely with SEO and content teams to auto-generate missing ALT text for thousands of images using AI and automated workflows in Make.com.
 
 Beyond coding, I focused on scalability, UI/UX improvements, and SEO-friendly structuring—delivering real impact to the business website through practical, hands-on solutions.
 
-- **Franchise AVS:** [https://homeportal.ca/](https://homeportal.ca/)
+- **Homeportal:** [https://homeportal.ca/](https://homeportal.ca/)
 
 **Output:**
 
