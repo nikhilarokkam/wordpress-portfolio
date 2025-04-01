@@ -116,7 +116,7 @@ Beyond coding, I focused on scalability, UI/UX improvements, and SEO-friendly st
 
 **Output:**
 
-![screencapture-franchiseavs-2024-12-02-07_58_22](https://github.com/user-attachments/assets/e045c2aa-3e4a-4275-88ae-f118ad8bb319)
+![Image](https://github.com/user-attachments/assets/0c2d4602-7d8a-45a9-b06c-8a20a3a734c2)
 
 ---
 
