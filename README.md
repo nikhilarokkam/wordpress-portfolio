@@ -4,6 +4,19 @@ Welcome to my portfolio! Here you can find a collection of my projects as a Word
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Projects
 
 ### Project 1: BuzzBeamDigital Internship
