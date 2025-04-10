@@ -58,7 +58,7 @@ I am currently employed as a full-time remote Web Developer at Web Around Techno
 - **DBB:** [https://www.dbb.com](https://www.dbb.com)
 - **Vietnam Incorp Asia:** [http://vietnam.incorp.asia](http://vietnam.incorp.asia)
 - **Ambience Mall:** [https://digitalpatang.in/am/](https://digitalpatang.in/am/)
-- **Skipper N Friends:** [https://skippernfriends.com/](https://skippernfriends.com/)
+- **Skipper N Friends:** [https://skippernfriends.com/](https://skippernfriends.com/) (404 Not Found - Under Maintenance)
 - **Akash Super Tramp:** [https://akashsupertramp.com/](https://akashsupertramp.com/)
 - **QuickPack:** [https://quickpack.co.in/](https://quickpack.co.in/)
 - **Chitranjan Astrology**: [https://chitranjanastro.com/](https://chitranjanastro.com/)
