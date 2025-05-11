@@ -128,6 +128,21 @@ Beyond coding, I focused on scalability, UI/UX improvements, and SEO-friendly st
 
 ---
 
+### Project 6: Metal Fabricators
+**Client:** Shivankar Aggarwal
+
+**Duration:** May 5 2025 – Present
+
+**Description:**
+
+- **Metal Fabricators:** [https://metalfabricators.net/](https://metalfabricators.net/)
+
+**Output:**
+
+![Image](https://github.com/user-attachments/assets/0c2d4602-7d8a-45a9-b06c-8a20a3a734c2)
+
+---
+
 ## Contact
 
 Feel free to reach out if you have any questions or if you would like to collaborate on a project!
