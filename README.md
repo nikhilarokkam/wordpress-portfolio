@@ -139,7 +139,7 @@ Beyond coding, I focused on scalability, UI/UX improvements, and SEO-friendly st
 
 **Output:**
 
-![Image](https://github.com/user-attachments/assets/0c2d4602-7d8a-45a9-b06c-8a20a3a734c2)
+![Image](https://github.com/user-attachments/assets/b8cc139a-2eef-4971-bb60-dfe0f89a1c5d)
 
 ---
 
